@@ -46,7 +46,7 @@ const Navbar = () => {
           }`}
         >
           <p
-            className="absolute top-10 right-10 text-white"
+            className="absolute top-10 right-10 text-white cursor-pointer"
             onClick={() => setOpenMenu(false)}
           >
             X

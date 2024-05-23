@@ -70,7 +70,7 @@ export const services = [
 
 export const reviews = [
   {
-    imgURL: "/images/customer1.jpeg",
+    imgURL: "/images/customer2.svg",
     customerName: "Morich Brown",
     rating: 4.5,
     feedback:
