@@ -29,22 +29,22 @@ export const statistics = [
 export const products = [
   {
     imgURL: "/images/shoe4.svg",
-    name: "Nike Air Jordan-01",
+    name: "Kike Air Max",
     price: "$200.20",
   },
   {
     imgURL: "/images/shoe5.svg",
-    name: "Nike Air Jordan-10",
+    name: "Kike Air Max 2",
     price: "$210.20",
   },
   {
     imgURL: "/images/shoe6.svg",
-    name: "Nike Air Jordan-100",
+    name: "Kike Air Max 3",
     price: "$220.20",
   },
   {
     imgURL: "/images/shoe7.svg",
-    name: "Nike Air Jordan-001",
+    name: "Kike Air Max 4",
     price: "$230.20",
   },
 ];
@@ -93,8 +93,8 @@ export const footerLinks = [
       { name: "Air Max 1", link: "/" },
       { name: "Air Jordan 1", link: "/" },
       { name: "Air Force 2", link: "/" },
-      { name: "Nike Waffle Racer", link: "/" },
-      { name: "Nike Cortez", link: "/" },
+      { name: "Kike Waffle Racer", link: "/" },
+      { name: "Kike Cortez", link: "/" },
     ],
   },
   {
@@ -110,7 +110,7 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
+      { name: "customer@kike.com", link: "mailto:customer@kike.com" },
       { name: "+92554862354", link: "tel:+92554862354" },
     ],
   },

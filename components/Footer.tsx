@@ -9,15 +9,12 @@ const Footer = () => {
         <div className="flex justify-between item-start gap-20 flex-wrap max-lg:flex-col">
           <div className="flex flex-col items-start">
             <Link href={"/"}>
-              <Image
-                src={"/images/footer-logo.svg"}
-                alt="logo"
-                width={150}
-                height={46}
-              />
+              <h3 className="text-white font-palanquin text-3xl font-bold">
+                Kike
+              </h3>
             </Link>
             <p className="mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm">
-              Get shoes ready for the new term at your nearest Nike store. Find
+              Get shoes ready for the new term at your nearest Kike store. Find
               Your perfect Size In Store. Get rewards
             </p>
             <div className="flex items-center gap-5 mt-8">

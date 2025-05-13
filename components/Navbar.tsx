@@ -12,12 +12,7 @@ const Navbar = () => {
     <header className="padding-x py-8 absolute z-20 w-full">
       <nav className="flex justify-between items-center max-container">
         <Link href="/">
-          <Image
-            src="/images/header-logo.svg"
-            alt="Logo header"
-            width={130}
-            height={29}
-          />
+          <h3 className="font-palanquin text-3xl font-bold">Kike</h3>
         </Link>
         <ul className="flex-1 flex justify-center items-center gap-16 max-lg:hidden">
           {navLinks.map((item) => (

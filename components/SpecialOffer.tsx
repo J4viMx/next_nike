@@ -7,7 +7,7 @@ const SpecialOffer = () => {
       <div className="flex flex-wrap justify-center items-center max-xl:flex-col-reverse gap-10 max-container">
         <div className="flex-1">
           <Image
-            src="./images/offer.svg"
+            src="./images/big-shoe1.png"
             alt="offer"
             width={773}
             height={687}
